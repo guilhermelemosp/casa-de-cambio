@@ -1,0 +1,28 @@
+{
+  "name": "casa-de-cambio",
+  "version": "1.0.0",
+  "description": "Exercicio de front end da trybe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermelemosp/casa-de-cambio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermelemosp/casa-de-cambio/issues"
+  },
+  "homepage": "https://github.com/guilhermelemosp/casa-de-cambio#readme",
+  "type": "module",
+  "dependencies": {
+    "vite": "^4.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.31.0"
+  }
+}
